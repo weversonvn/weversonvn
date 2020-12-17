@@ -1,4 +1,6 @@
-### Hi there 👋
+# Weverson Nascimento
+
+Oi, eu sou o ~~Goku~~ Weverson. Sou Engenheiro de Computação e mestrando em Engenharia Elétrica pela Universidade Federal do Pará ([UFPA](https://portal.ufpa.br)). Sou da área de processamento digital de sinais e gosto de programar em Python (vocês vão ver muito disso aqui nesse perfil). Se quiserem saber mais um pouco deem uma olhada [aqui](https://weversonvn.github.io/).
 
 <!--
 **weversonvn/weversonvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
